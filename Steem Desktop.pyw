@@ -9,7 +9,7 @@ import piston
 # The Main Window
 
 root = Tk()
-root.title('Steemit Desktop')
+root.title('Steem Desktop')
 root.iconbitmap('stm.ico')
 
 # Creating a Dictionary for Vote Management
